@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-item1 {
+    flex-basis: 40%;
+}
+.flex-item2{
+  flex-basis: 50%;
+  text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+.drink-img{
+  width: 50%;
+}
+li{
+  cursor:pointer;
+}
